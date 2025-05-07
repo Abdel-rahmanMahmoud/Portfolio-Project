@@ -6,7 +6,7 @@ It highlights my **experience**, **projects**, **skills**, and **education** in 
 By utilizing Bootstrap’s grid system and components, I ensured the design is adaptive, user-friendly, and accessible on all devices.
 
 ## 🚀 Features  
-- ✅ Fully responsive layout  
+- ✅ Fully responsive layout using (grid , flex , mediea query)
 - ✅ Clean and modern UI  
 - ✅ Section-based navigation (Experience, Skills, Projects, Education,Contact)  
 - ✅ Smooth user experience across screen sizes  
